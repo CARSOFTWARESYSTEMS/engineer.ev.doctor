@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "ev.doctor"
+        }
+      ],
+      "destination": "https://engineer.ev.doctor",
+      "permanent": true
+    }
+  ]
+}
